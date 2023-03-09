@@ -1,3 +1,3 @@
-import TimerForNewYear from "./modules/TimerForNewYear.js";
+import timerForNewYear from "./modules/timer-for-new-year.js";
 
-TimerForNewYear('2024');
+timerForNewYear();
